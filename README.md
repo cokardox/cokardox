@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi :v:, I am Oscar Fernandez  </h1>
 <h3 align="center">I am a Web Developer, from Chile </h3>
 <h4 align="center">I'm :balance_scale: and 🏇 </h4>
@@ -60,6 +58,6 @@
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cokardox&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="FelipeKessiBustos" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cokardox&show_icons=true&locale=en&theme=tokyonight" alt="FelipeKessiBustos" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cokardox&theme=dark" alt="FelipeKessiBustos" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cokardox&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="OscarFernandezs" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cokardox&show_icons=true&locale=en&theme=tokyonight" alt="OscarFernandezs" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cokardox&theme=dark" alt="OscarFernandezs" /></p>
 
 
