@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi :v:, I am Oscar Fernandez  </h1>
 <h3 align="center">I am a Web Developer, from Chile </h3>
 <h4 align="center">I'm :balance_scale: and 🏇 </h4>
@@ -5,9 +6,10 @@
 ### About Me:
 
 - ⌨️ Full Stack Developer
-- 👨‍🏫 Maths and Computer Teacher
+- 👨‍🏫 Informatics Engineer
 - 💻 Technology
 - 🥋 Chess and Soccer
+
 <!-- - I'm currently learning more about:
     - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Microservices with Spring Boot
     - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
@@ -16,9 +18,8 @@
 - :link: Connect with me: <a href="www.linkedin.com/in/
 oscar-fernandezs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 - I’m currently working on:
-    - :earth_americas: I'm Co-Founder at ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kessillox/firma/master/logo-transparente.png" height="30" width="30"></a>
-    - :convenience_store: I'm Co-Founder and CEOBoss at Koders Ltda.  <a href="https://www.koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
-
+    - :earth_americas: I'm Co-Founder at Solucionex Tco. 
+ 
 
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
@@ -58,4 +59,6 @@ oscar-fernandezs" target="_blank"><img align="center" src="https://raw.githubuse
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kessillox&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="FelipeKessiBustos" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kessillox&show_icons=true&locale=en&theme=tokyonight" alt="FelipeKessiBustos" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kessillox&theme=dark" alt="FelipeKessiBustos" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cokardox&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="FelipeKessiBustos" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kessillox&show_icons=true&locale=en&theme=tokyonight" alt="FelipeKessiBustos" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kessillox&theme=dark" alt="FelipeKessiBustos" /></p>
+
+
