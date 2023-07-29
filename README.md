@@ -1,4 +1,6 @@
 
+
+
 <h1 align="center">Hi :v:, I am Oscar Fernandez  </h1>
 <h3 align="center">I am a Web Developer, from Chile </h3>
 <h4 align="center">I'm :balance_scale: and 🏇 </h4>
@@ -15,8 +17,7 @@
     - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
     - <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Node.js -->
 - :speech_balloon: How to reach me **oscar.ferdez@gmail.com**
-- :link: Connect with me: <a href="www.linkedin.com/in/
-oscar-fernandezs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
+- :link: Connect with me: <a href="https://www.linkedin.com/in/oscar-fernandezs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 - I’m currently working on:
     - :earth_americas: I'm Co-Founder at Solucionex Tco. 
  
@@ -59,6 +60,6 @@ oscar-fernandezs" target="_blank"><img align="center" src="https://raw.githubuse
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cokardox&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="FelipeKessiBustos" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kessillox&show_icons=true&locale=en&theme=tokyonight" alt="FelipeKessiBustos" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kessillox&theme=dark" alt="FelipeKessiBustos" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cokardox&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="FelipeKessiBustos" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cokardox&show_icons=true&locale=en&theme=tokyonight" alt="FelipeKessiBustos" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cokardox&theme=dark" alt="FelipeKessiBustos" /></p>
 
 
