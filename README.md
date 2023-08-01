@@ -22,8 +22,7 @@
 
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
-    <p align="left"> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40" margin-right="3px"/> </a> 
-                <a href="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" alt="vmware" width="50" height="40" margin-right="3px"/> </a> 
+    <p align="left"> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40" margin-right="3px"/> </a>
                 <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> <!-- <a href="#" target="_blank"> <img
