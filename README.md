@@ -8,7 +8,7 @@
 - ⌨️ Full Stack Developer
 - 👨‍🏫 Informatics Engineer
 - 💻 Technology
-- 🥋 Chess and Soccer
+- ⚽♟️ Chess and Soccer
 
 <!-- - I'm currently learning more about:
     - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Microservices with Spring Boot
@@ -24,7 +24,10 @@
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
+                                                      
+                width="50" height="40" margin-right="3px"/> </a> 
+                < href="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" alt="vmware" width="50" height="40" margin-right="3px"/> </a> 
+                <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> <!-- <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40"
